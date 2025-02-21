@@ -1,11 +1,10 @@
 # AZ-204: Developing Solutions for Microsoft Azure
 
-![AZ-204 Badge](https://your-badge-url.com) <!-- Optional: Add a certification badge if available -->
-
 ## 📌 Overview
 This repository contains my hands-on projects and solutions for the **AZ-204: Developing Solutions for Microsoft Azure** certification. It includes **4-5 projects**, solutions to **MS Learn practices**, and additional **GSP-inspired projects**.
 
 ## 📂 Repository Structure
+(How this repo will look, once done)
 ```
 AZ-204/
 │── projects/                # Full projects inspired by AZ-204 requirements
