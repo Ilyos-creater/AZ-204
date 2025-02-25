@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_function_vscode": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7069",
+      "launchBrowser": false
+    }
+  }
+}
